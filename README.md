@@ -1,2 +1,5 @@
 # WpfGifAnimation
-Support for Gif Animation Control in wpf
+Support for animated gif control in wpf
+
+# Dependency
+.NETFramework,Version >= 2.0
