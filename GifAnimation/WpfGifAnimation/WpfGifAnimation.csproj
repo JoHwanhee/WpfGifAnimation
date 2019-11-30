@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3FF09A89-1B0C-413A-87D0-5DB002E1D8FB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>GifAnimation</RootNamespace>
-    <AssemblyName>GifAnimation</AssemblyName>
+    <RootNamespace>WpfGifAnimation</RootNamespace>
+    <AssemblyName>WpfGifAnimation</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
